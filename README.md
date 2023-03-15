@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Gbemiga. A front-end developer. I specialize in creating online value via software programs. 
+🌱 I’m currently learning React
+👯 I’m always looking to network with other developers
+Thanks. Happy Coding!
 
 <!--
 **AtGbemiga/AtGbemiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
