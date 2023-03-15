@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Gbemiga. A front-end developer. I specialize in creating online value via software programs. 
 🌱 I’m currently learning React
-👯 I’m always looking to network with other developers
+👯 I’m always looking to network with other developers.
 Thanks. Happy Coding!
 
 <!--
