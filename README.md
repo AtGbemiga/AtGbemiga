@@ -1,20 +1,17 @@
-### Hi there 👋
-I'm Gbemiga. A front-end developer. I specialize in creating online value via software programs. 
-🌱 I’m currently learning React
-👯 I’m always looking to network with other developers.
-Thanks. Happy Coding!
+Hi there 👋
+I’m a Frontend Developer.
+I'm looking for an opportunity to work developing software, onsite or remote.
+I have experience with: JavaScript React Redux HTML/CSS Gitflow Bootstrap JQuery.
+I have coded more than 2000 hrs on projects.
+I have years of experience as a Social Media Manager and Email Marketer.
+I speak English and Yoruba.
+I have a BSc in Information and Communication Technology.
+I enjoy interaction / communication with partners, clients or directors as well.
+I like working in teams and making new friends out of my team's partners.
+📫 How to reach me:
 
-<!--
-**AtGbemiga/AtGbemiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LinkedIn: https://www.linkedin.com/in/gbemiga-atolagbe-6b4b1a260/
 
-Here are some ideas to get you started:
+GitHub: https://github.com/AtGbemiga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Slack: https://app.slack.com/client/T47CT8XPG/D04V71AJTFY/rimeto_profile/U04S34ETND9
