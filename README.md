@@ -24,3 +24,5 @@ LinkedIn: https://www.linkedin.com/in/gbemiga-atolagbe-6b4b1a260/
 GitHub: https://github.com/AtGbemiga
 
 Slack: https://app.slack.com/client/T47CT8XPG/D04V71AJTFY/rimeto_profile/U04S34ETND9
+
+Email: gbatolagbe@gmail.com
