@@ -4,7 +4,7 @@ I’m a Frontend Developer.
 
 I'm looking for an opportunity to work developing software, onsite or remote.
 
-I have experience with: `JavaScript`, `React`, `Redux`, `HTML`, `CSS`, `Gitflow`, `Bootstrap`, `JQuery`.
+I have experience with: `JavaScript` `React` `Redux` `HTML` `CSS` `Gitflow` `Bootstrap` `JQuery`.
 
 I have coded more than 2000 hrs on projects.
 
