@@ -1,3 +1,4 @@
+![](gbemiga atolagbe.png)
 Hi there 👋
 I’m a Frontend Developer.
 
