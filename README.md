@@ -1,8 +1,7 @@
 ![](Gbemiga_Atolagbe.png)
-Hi there 👋
-I’m a Frontend Developer.
-
-I'm looking for an opportunity to work developing software, onsite or remote.
+### Hi there 👋
+- I’m a Frontend Developer.
+- I'm looking for an opportunity to work developing software, onsite or remote.
 
 I have experience with: `JavaScript` `React` `Redux` `HTML` `CSS` `Gitflow` `Bootstrap` `JQuery`.
 
