@@ -1,4 +1,4 @@
-![](Gbemiga-Atolagbe.png)
+![](Gbemiga Atolagbe.png)
 ### Hi there 👋
 - I’m a Frontend Developer.
 - I'm looking for an opportunity to work developing software, onsite or remote.
