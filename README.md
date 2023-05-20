@@ -1,5 +1,5 @@
 ![](gbatolagbe.png)
-### Hi there 👋
+### Hi there 👋 
 - I’m a Frontend Engineer.
 - I'm looking for an opportunity to work developing software, onsite or remote.
 - I have experience with: `JavaScript` `React` `Next js` `Redux` `HTML` `CSS` `D3 js` `Gitflow` `Bootstrap`.
