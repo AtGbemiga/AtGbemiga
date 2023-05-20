@@ -1,4 +1,4 @@
-![](gbatolagbe.png)
+
 ### Hi there 👋 
 - I’m a Frontend Engineer.
 - I'm looking for an opportunity to work developing software, onsite or remote.
