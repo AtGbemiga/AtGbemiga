@@ -2,7 +2,7 @@
 ### Hi there 👋 
 - I’m a Full Stack Engineer.
 - I'm looking for an opportunity to work developing software, onsite or remote.
-- I have experience with: `JavaScript` `React` `Next js` `Redux` `HTML` `CSS` `D3 js` `Gitflow` `Bootstrap` `Node js` `Express js`.
+- I have experience with: `JavaScript` `React` `Next js` `Typescript` `Redux` `HTML` `CSS` `D3 js` `Gitflow` `Bootstrap` `Node js` `Express js`.
 - I have coded more than 2000 hrs on projects.
 - I have years of experience as a Social Media Manager and Email Marketer.
 - I speak English and Yoruba.
