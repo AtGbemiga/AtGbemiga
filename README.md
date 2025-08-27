@@ -7,6 +7,4 @@
 - I enjoy interaction/communication with teammates.
 - 📫 How to reach me:
 
-GitHub: [Gbemiga Atolagbe](https://github.com/AtGbemiga)
-
-Email: gbatolagbe@gmail.com
+[Email](mailto:gbatolagbe@gmail.com)
