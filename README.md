@@ -10,13 +10,3 @@
 GitHub: [Gbemiga Atolagbe](https://github.com/AtGbemiga)
 
 Email: gbatolagbe@gmail.com
-
-_Knock knock_  
-
-_Who's there?_  
-
-_CPU_  
-
-_CPU who?_  
-
-_CPU later when I'm done processing!_
